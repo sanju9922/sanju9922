@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a focus on
 - Exploring the latest developments in backend frameworks and databases.
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Email](mailto:yourname@example.com)
+- [LinkedIn](https://www.linkedin.com/in/sanjay-kumar-947911229/)
+- [Email](sanjaykumar090902@google.com)
 
 ## ✨ Fun Fact
 I enjoy solving complex coding problems and optimizing backend performance!
