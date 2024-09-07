@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Sanjay Kumar 
 
-Welcome to my GitHub profile! I'm a passionate backend developer with a focus on building scalable web applications and exploring data structures and algorithms in Java.
+Welcome to my GitHub profile! I'm a passionate backend developer focusing on building scalable web applications and exploring data structures and algorithms in Java.
 
 ## 🚀 About Me
 - 💻 Backend developer experienced in Java, JavaScript, Python, and more.
